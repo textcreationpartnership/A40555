@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and true account of a most horrid and barbarous design, intended to be executed upon the body of Mr. J. Frampton, a wire-worker, living upon London-Bridge who by providence hath escaped the wicked conspiracy of Mary Roberts; the effects of which was to have ended in his death, and utter ruine of his whole family. Which is as followeth,</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40555</idno>
+            <idno type="STC">Wing F2294AA</idno>
+            <idno type="STC">ESTC R215132</idno>
+            <idno type="EEBO-CITATION">99827101</idno>
+            <idno type="PROQUEST">99827101</idno>
+            <idno type="VID">31514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31514)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1886:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and true account of a most horrid and barbarous design, intended to be executed upon the body of Mr. J. Frampton, a wire-worker, living upon London-Bridge who by providence hath escaped the wicked conspiracy of Mary Roberts; the effects of which was to have ended in his death, and utter ruine of his whole family. Which is as followeth,</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for tha author, and sold by E. Baldwin in Warwick-Lane; and at the Bible in Grace-Church Street,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Frampton, J. --  Early works to 1800.</term>
+               <term>Roberts, Mary, fl. 1698 --  Early works to 1800.</term>
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Criminal behavior --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:31514:1"/>
+            <pb n="1" facs="tcp:31514:1" rendition="simple:additions"/>
+            <head>A Full and True Account of a moſt Horrid and Barbarous Deſign, intended to be Executed upon the Body of Mr. <hi>J. Frampton,</hi> a <hi>Wire-worker,</hi> Living upon <hi>London-Bridge:</hi> Who by Providence hath eſcaped the Wicked Conſpiracy of <hi>Mary Roberts;</hi> the Effects of which was to have ended in his Death, and utter Ruine of his whole Family, Which is as followeth,</head>
+            <p>THE Chief Actoreſs in this Affair was the aforeſaid <hi>Mary Roberts,</hi> who having been kept ſome Years by a certain Gentleman in <hi>London,</hi> about a Month ſince (and not without ſome good Reaſon) the ſaid Perſon and She hath parted; now ſhe miſtruſt<g ref="char:EOLhyphen"/>ing that the Cauſe of her Uſage was from the Suggeſtion, and through the Means of the aforeſaid <hi>J. Frampton,</hi> who is an intimate Friend of the Gentleman; ſhe to ſatisfie her Revenge, which Paſſion in Women is always Cruel to Extremity, did contrive how to Murder the ſaid <hi>Frampton</hi> in the manner as followeth. About three Weeks ſince ſhe concludes with her ſelf to hire ſome Ruffian to murder him; and to Effect which, ſhe accord<g ref="char:EOLhyphen"/>ingly goes to <hi>Lincoln</hi>'s-<hi>Inn-Fields,</hi> there thinking to find out amongſt the <hi>Ring,</hi> ſome Inſtruments that were fit to execute her bloody Deſign; and at laſt chanc'd upon two (who as ſhe thought) were fit for her turn; the one of which was a Black-moor who uſes that <hi>Ring,</hi> ſhe urging ſhe had a great Secret to diſcloſe to them, and that if they would do a little Buſineſs for her, ſhe would well Reward them; they ſeem'd to be willing, ſo ſhe then told them the whole Matter, which was to murder one <hi>J. Frampton,</hi> giving them Directions how to find him, and for a Reward ſhe gave them each a Crown down, and Contracted to give them Two Guineas more
+<pb n="2" facs="tcp:31514:2"/>when the Thing was done; likewiſe ſhe told the Black, that if he would kill him, ſhe would ſettle 20 <hi>
+                  <abbr>l.</abbr> per Annum</hi> upon him for his Life, and to have good Security for the Payment of the ſame, all which the Black con<g ref="char:EOLhyphen"/>feſs'd ſince, before divers Witneſſes; which they both willingly embrac'd, and in order to Effect it, they went both the next Morning to his Houſe, and when they came, there was only the Boy in the Shop; the Black ask'd the Boy for his Maſter, but he, the Boy told them, was not ſtirring; they began to enter in ſome Diſcourſe with the Boy, asking him ſome Queſtions, as what Houſe his Maſter kept, and to what Places he went to in the Day, and motion'd to the Boy of giving him ſome Guineas to do ſomething: However, they made no further Progreſs in it that Morning, but went a<g ref="char:EOLhyphen"/>way, but return'd again the Day following; in the Interim the Boy declar'd to his Miſtreſs what they ſaid; when they came again, the Boy call'd his Miſtreſs down to them, ſhe began to be Inquiſitive with them, and talking a little ſharply to them, they both fearing ſomething, withdrew ſuddenly, and got out of the Shop, &amp; meeting with theſe Repulſes, had Thoughts of going no more about it; but went immediately to the aforeſaid <hi>Mary Roberts,</hi> and told her that they had perform'd their Bargain (namely, that they had been at <hi>Framptons,</hi> and Surprizing him alone in the Shop, fell upon him and beat him, Wounding of him in ſeveral Places, leaving him in a Condi<g ref="char:EOLhyphen"/>tion not likely to Live long in this World; after that they had (becauſe ſhe deſir<g ref="char:punc">▪</g>d it) broke his Windows, leaving a Mob about his Houſe; ſhe crediting there Report, not doubting but they had done it; gives them the two Guineas, and furthermore promis'd, that ſhe would be as good as her Word to the Black: Next Morning ſhe takes a Coach, hugging her ſelf in her late good Succeſs, and goes to <hi>London-bridge</hi> only with one Perſon, who has ſince Confeſs'd the Matter; when ſhe came there ſhe Lights, and going to a Houſe near the Place, ſhe inquir'd concerning it; but finding how it was, ſhe preſently ſwore that ſhe was Cheated of her Money, that Revenge was hers, and by the Eternal God ſhe'd have it; upon this ſhe goes to one <hi>Jennins,</hi> a Fellow who beats a Drum and ſings to't at Weddings, applying her ſelf to him in the ſame Manner, as ſhe had to the former, offering him a good Gratuity; he perceiving what her intent was, Anſwers, Why what would you have me do to him, would you have me kill him. If there comes a Preſs out, I'll get him Preſs'd for you, if that will do you any kindneſs, ſhe hearing him make ſuch an Anſwer, made a ſlight Excuſe and went her Ways; telling the Perſon that was with her, ſeeming angry, that ſhe won<g ref="char:EOLhyphen"/>der ſhe ſhould bring her to ſuch a Blockhead as that was.</p>
+            <p>Immediately after this, her Maid paſſing along in <hi>High-Holbourn</hi> met with
+<pb n="3" facs="tcp:31514:2"/>one Mr. <hi>Hartly,</hi> who would have her Drink with him, which ſhe readily Conſented to, thinking him a fit Perſon to perform her Miſtreſſes Buſineſs, ſo while they were drinking the Maid very frankly told him the whole Mat<g ref="char:EOLhyphen"/>ter of her Miſtreſſes Intentions, and how ſhe was ſerv'd: he ſeem'd at the firſt to be ſcrupulous, but at length, with the Maids Intreaties, he did com<g ref="char:EOLhyphen"/>ply; ſaying, that he would undertake the Thing for her Miſtreſs; ſo ha<g ref="char:EOLhyphen"/>ving talk'd about it ſome time, they both went to a Houſe, where the Mi<g ref="char:EOLhyphen"/>ſtreſs came in a Coach to them; and being made acquainted by the Maid, that that Gentleman was for her Turn, and a Man of Honour, the Lady was pleas'd with her new Ingin, ſo they ſoon ſtruck the Bargain; ſo the Maid and he came away together in Purſuance to their Deſign, and comes to <hi>London-Bridge,</hi> near <hi>Frampton</hi>'s Houſe; where Mr. <hi>Hartly</hi> leaves the Maid, pretending to go ſeek a Man to help him in the Buſineſs, but inſtead of that goes directly to <hi>Framptons</hi> Houſe, and finds him at home, where he related to him the whole Matter; which did not a little ſurpriſe him, when he reflected upon the Barbarity of the Matter, but conſidering the Danger of his Circumſtances, goes along with Mr. <hi>Hartly</hi> to a Friend of his who he thought capable to adviſe him; his Friend ſoon put him in a Method, whereby to prevent any further Danger which was this: His Friend and Mr. <hi>Hartly</hi> goes preſently back to the Maid who waited hard by for his Return; when they came into the Houſe to her ſhe ſeem'd a little ſhy, but ſatisfied by Mr. <hi>Hartly</hi> of the fitneſs of the Perſon, together with his Tragi<g ref="char:EOLhyphen"/>cal Expreſſions, ſhe took Heart and ſaid that this of all the reſt ſeem'd be the likelieſt Man; and the Maid further ſaid, that her Miſtreſs had been diſap<g ref="char:EOLhyphen"/>pointed ſeveral Times already, and that now ſhe was Reſolv'd to ſee it done her ſelf, or to have ſome Friend whom ſhe could truſt to ſee; but Mr. <hi>Framptons</hi> Friend told her, that they would take him out from the Town and in ſome Convenient Place there do it; having heard all his Propoſals liked of them, and went and told her Miſtreſs, who alſo liked of it too; and likewiſe told her Miſtreſs, they would have nothing before<g ref="char:EOLhyphen"/>hand, but when the buſineſs was done, would have five Guineas, and that it ſhould be perform'd to their Hearts Content, all which the Miſtreſs agreed to, and lik'd off, and bid the Maid haſten that it might be done. The Maid return'd with the Anſwer, that her Miſtreſs approvd of their Method, and urg'd the ſpeedy Execution of it; all things being thus concluded on, Mr. <hi>Hartly,</hi> Mr. <hi>Framptons</hi> Friend, and the Maid, went away to <hi>Cupid</hi>'s Gardens, being the Place fix'd for the Deſign, which was upon <hi>Saturday,</hi> being the Fourteenth of this Inſtant <hi>May.</hi> Where the Maid ſent for two or three of her Miſtreſs's Companions, and accordingly, in leſs than two
+<pb n="4" facs="tcp:31514:3"/>Hours, came three Women, who were to be Spectators, no ſooner they appear'd, but they ſent Mr. <hi>Hartly</hi> away for Mr. <hi>Frampton,</hi> who was in a readineſs to receive the Meſſenger, and came accordingly with him; who when the Women ſpy'd they knew, and his Friend ſtept up to them and ſaid Ladies is not that he, they all Reply'd Yes, that's he that is gone in to the Arbor, follow him, and do your Buſineſs; ſo he went into the Arbor to Mr. <hi>Frampton;</hi> and ſeemingly fell upon, and with a Sheeps bladder which they had about them, fill'd with Blood, they all ſmear'd his Face and Body, he all the while lay Groaning: When they thought that it was well enough, they went out to the Women and ask'd them to come in, for that they had effectually done the Buſineſs; ſo one bolder then the reſt came into the Arbor, and view'd the Body; which was ſo well Acted, that ſhe had ſeen enough of the Spectacle, and having no ſooner withdrawn to the reſt of her Compa<g ref="char:EOLhyphen"/>ny, who ſtood waiting with impatience to hear the Joyful Tydings, which when they heard were well ſatisfied, and ſlid five Guineas into Mr. <hi>Hartly</hi>'s hands, which they had no ſooner done, but were unfortunatly ſeiz'd on by a Conſtable, who waited there upon the Matter; all which the ſuppos'd dead Body hearing, aroſe and walk'd to Captain <hi>Cupid</hi>'s Pump and there waſh'd his Face and clear'd his Cloaths and went to Complement the Ladies, they being ſomewhat affrighted at the ſight of the Conſtable and the Dead-man, ſent away a Meſſage in all haſt to <hi>Mary Roberts</hi> to come and Comfort them, who coming in hopes to rejoyce with her Friends, was no ſooner Landed on the Shore, but to her diſappointment was likewiſe ſeiz'd on by the Conſtable, from thence they were all carried before two Juſtices o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Peace, who were then at <hi>Fox</hi> Hall, where they were examin'd; upon their Examination they at firſt behav'd themſelves very impudently, which could not be expected any otherwiſe from ſuch Perſons as they were, bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Matter was ſoon prov'd too plain upon them, and their <hi>Mittimus</hi> wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made for the County Jail, but they are ſince admitted to Bail.</p>
+            <p>If any Perſon doubts of the Truth of this Relation, let them inform themſelves at any of the Places before mentioned.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for the Author, and Sold by <hi>E. Baldwin</hi> in <hi>Warwick-Lane;</hi> And at the <hi>Bible</hi> in <hi>Grace-Church</hi> Street, 1698.</p>
+            <pb facs="tcp:31514:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
